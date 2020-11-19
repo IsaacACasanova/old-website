@@ -37,8 +37,6 @@ social:
     # The first element serves as the copyright owner's link
     - https://twitter.com/Casanovacane      # change to your twitter homepage
     - https://github.com/username       # change to your github homepage
-    # Uncomment below to add more social links
-    # - https://www.facebook.com/username
     - https://www.linkedin.com/in/isaacacasanova/
 
 google_site_verification: google_meta_tag_verification # change to your verification string
@@ -54,7 +52,7 @@ baseurl: ''
 timezone: America/New_York
 
 google_analytics:
-  id: ''          # Fill with your Google Analytics ID
+  id: 'UA-180637374-1'          # Fill with your Google Analytics ID
   pv:
     # The Google Analytics pageviews switch.
     # DO NOT enable it unless you know how to deploy the Google Analytics superProxy.
