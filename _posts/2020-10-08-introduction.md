@@ -15,8 +15,12 @@ ___
 
 # 1. Disconnect from Social Media
 
-It's all too easy to get stuck in the sea of information social media gives us. From COVID to the Black Lives Matter movement and the ongoing election, there's so much to keep tabs on. The best thing you can do for yourself is to silence your phones, close your internet tabs and take a walk.
+It's easy to drown in the sea of information social media and the news throws at us. From COVID-19, to the Black Lives Matter movement and the controversy surrounding the U.S. election, it's a nonstop waterfall. If you feel overwhelmed, try silencing your phone, closing your internet tabs and taking a walk. Disconnecting allows us to recharge our mental energy and center our thoughts. It's important to take care of your mental health during this weird time, and decreasing your screen time is one way to do it.
 
 # 2. Start a New Hobby
 
-If you've been putting off learning a new language, cooking a new recipe, investing in the stock market or remodeling your bathroom, now is the time to do so. We've never spent so much time inside before, so take advatage and get a jump on as many side projects as you can. You never know, one of the ventures you start during quarantine can bring in a good source of second income. You may even be able to shelf your current job and pursue your new business full time.
+If you've been putting off learning a new language, cooking a new recipe, investing in the stock market or remodeling your bathroom, now is the time to do so. We've never had so much time inside before, so take advantage and do something you've always wanted to do! There are lots of examples of total body transformations, career changes and YouTube channels started during this pandemic. While you don't have to put pressure on yourself to completely change your life, devoting your time to something new is a great way to occupy your mind while the pandemic has slowed the outside world to a standstill.
+
+# 3. Reach Out to Family and Friends 
+
+Something that's greatly helped me during this time is to consistently check in on my family and friends. A lot of the time we take our immediate family for granted and don't go below the surface when calling or texting them. Millions of people have lost loved ones due to COVID-19. We have to support those that have experienced loss, and we have to make the most of the time we have with our loved ones now.
