@@ -1,6 +1,6 @@
 ---
 title: Motivation during COVID-19
-date: 2020-10-08
+date: 2020-11-22
 categories: [motivation]
 tags: [motivation]     # TAG names should always be lowercase
 ---
@@ -23,4 +23,13 @@ If you've been putting off learning a new language, cooking a new recipe, invest
 
 # 3. Reach Out to Family and Friends 
 
-Something that's greatly helped me during this time is to consistently check in on my family and friends. A lot of the time we take our immediate family for granted and don't go below the surface when calling or texting them. Millions of people have lost loved ones due to COVID-19. We have to support those that have experienced loss, and we have to make the most of the time we have with our loved ones now.
+Something that's greatly helped me during this time is to **consistently** check on my family and friends. A lot of the time we take our immediate family for granted and don't go below the surface when calling or texting them. Millions of people have lost loved ones due to COVID-19. We have to support those that have experienced loss, and we have to make the most of the time we have with our loved ones now. 
+
+Calling my mother, sister, brother and father and asking something as simple as "How was your day?", followed by  listening to listen and not just to respond. This has allowed me to notice things about my family I didn't take the time to do when I was caught up in a traditional work routine. If there's any positives I take away from the pandemic, it's that I have spent more time with and learned more about my family in the last 8 months than I have in the previous 3 years.
+
+When I look back on this time, this is what I'll be most proud of. I allowed myself to be present in the moment, listen to my family and friends and explore interests I had always saved for a "later time".
+
+# Wrapping Things Up
+
+These were the three key tips I've been using to navigate this pandemic. What are some ways you've passed the time? What are lessons you've learned either about yourself or those around you? I'd love to get your thoughts in the form of some comments. At the very least, I hope you've been inspired to find your personal motivation during this period of lockdown.
+
