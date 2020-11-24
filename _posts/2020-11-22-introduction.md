@@ -5,7 +5,7 @@ categories: [motivation]
 tags: [motivation]     # TAG names should always be lowercase
 ---
 
-![Image of COVID-19 strain](/assets/img/2020-10-08/COVID-19.jpg)
+![Image of COVID-19 strain](/assets/img/2020-11-22/COVID-19.jpg)
 _The COVID-19 virus, taken by the Centers for Disease Control and Prevention._
 
 
