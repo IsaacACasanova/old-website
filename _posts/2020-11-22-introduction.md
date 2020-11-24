@@ -32,4 +32,3 @@ When I look back on this time, this is what I'll be most proud of. I allowed mys
 # Wrapping Things Up
 
 These were the three key tips I've been using to navigate this pandemic. What are some ways you've passed the time? What are lessons you've learned either about yourself or those around you? I'd love to get your thoughts in the form of some comments. At the very least, I hope you've been inspired to find your personal motivation during this period of lockdown.
-
