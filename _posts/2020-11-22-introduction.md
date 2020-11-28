@@ -1,5 +1,5 @@
 ---
-title: Motivation during COVID-19
+title: Motivation during the COVID-19 Pandemic
 date: 2020-11-22
 categories: [motivation]
 tags: [motivation]     # TAG names should always be lowercase
